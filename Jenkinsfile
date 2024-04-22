@@ -7,9 +7,12 @@ pipeline{
     stages {
         stage('Test'){
             steps {
+                sh 'npm install'
                 sh 'node ./test.js'
             }
         }
     }
 }
+
+
 
