@@ -12,6 +12,14 @@
   "dependencies": {
     "chromedriver": "^111.0.0",
     "geckodriver": "^3.2.0",
-    "selenium-webdriver": "^4.8.2"
-  }
+    "selenium-webdriver": "^4.19.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neydjuaa/selenium_test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/neydjuaa/selenium_test/issues"
+  },
+  "homepage": "https://github.com/neydjuaa/selenium_test#readme"
 }
