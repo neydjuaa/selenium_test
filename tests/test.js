@@ -5,7 +5,7 @@ require("chromedriver");
 async function test_case() {
     let driver = await new Builder().forBrowser("chrome").build();
 
-    await driver.get("https://www.bing.com"/);
+    await driver.get("https://www.bing.com");
     try {
         // Initialize WebDriver session
         driver = await new Builder().forBrowser("chrome").build();
