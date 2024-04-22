@@ -10,8 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chromedriver": "^111.0.0",
-    "geckodriver": "^3.2.0",
+    "20": "^1.0.0",
+    "chromedriver": "^123.0.4",
+    "geckodriver": "^4.3.3",
     "selenium-webdriver": "^4.19.0"
   },
   "repository": {
@@ -21,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/neydjuaa/selenium_test/issues"
   },
-  "homepage": "https://github.com/neydjuaa/selenium_test#readme"
+  "homepage": "https://github.com/neydjuaa/selenium_test#readme",
+  "directories": {
+    "test": "tests"
+  }
 }
